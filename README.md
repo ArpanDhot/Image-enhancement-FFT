@@ -14,7 +14,7 @@ An image's spatial domain consists of all points it can occupy in space. Images 
 The frequency domain has some advantages over the spatial domain. A signal can be decomposed into sinusoidal components using the Fourier transform, making it easier to analyse in the frequency domain. This decomposition is not possible in the spatial domain. Signals are often more compact in the frequency domain than in the spatial domain. Therefore, we will conduct frequency analysis first, then the spatial.
 
 ## Process overview
-![](ImageEnhancementFFT/ReadMe/Aspose.Words.e4f11237-38ab-43e4-a394-fb71a0fadf15.001.png)
+![](./ReadMe/Aspose.Words.e4f11237-38ab-43e4-a394-fb71a0fadf15.001.png)
 
 This diagram represents the stages of image analysis we are going to perform:
 
