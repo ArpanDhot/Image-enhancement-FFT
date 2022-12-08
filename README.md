@@ -37,7 +37,7 @@ The Fast Fourier Transform (FFT) is an enhanced version of the DFT. The FFT prod
 
 |<p></p><p>![](./ReadME/Aspose.Words.e4f11237-38ab-43e4-a394-fb71a0fadf15.002.png)</p><p></p>|
 | :-: |
-|We converted the given image with noises into the frequency domain by using the NumPy library to transform the image into a Fourier Transform. The fft.fft2() computes the 2-dimensional FFT on the n-dimensional discrete Fourier Transform over any axes in an M-dimensional array using the Fast Fourier Transform (FFT).|
+We converted the given image with noises into the frequency domain by using the NumPy library to transform the image into a Fourier Transform. The fft.fft2() computes the 2-dimensional FFT on the n-dimensional discrete Fourier Transform over any axes in an M-dimensional array using the Fast Fourier Transform (FFT).
 
 
 |<p></p><p>![](./ReadME/Aspose.Words.e4f11237-38ab-43e4-a394-fb71a0fadf15.003.png)</p><p></p>|<p>The frequency domain enables us to see the noises with naked eye. All of the noises in the frequency domain are circled and arrowed in red. These areas are where there is predominantly noise that must be removed. </p><p></p>|
