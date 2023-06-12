@@ -1,4 +1,4 @@
-﻿# Abstract
+# Abstract
 Image analysis includes changing the characteristics of an image to improve its visual information. However, images are constantly polluted with external and internal noise environments during the capturing process of the image. As a result, different image analysis techniques are applied to the images to reduce such noises and enhance the image quality. This report will experiment with other image analysis techniques to see which approach provides the most favourable results.
 
 
